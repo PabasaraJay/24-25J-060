@@ -43,12 +43,11 @@ To run this project, ensure the following dependencies are installed:
   - TensorFlow or PyTorch for deep learning models  
 
 - **Frontend:**  
-  - React.js or Angular for user interfaces  
+  - ReactNative for user interfaces  
   - D3.js or Chart.js for interactive visualizations  
 
-- **Database:**  
-  - PostgreSQL or MySQL for structured data storage  
-  - MongoDB for unstructured data  
+- **Database:**   
+  - MongoDB, FireStore for unstructured data  
 
 - **Other Tools:**  
   - Git for version control  
