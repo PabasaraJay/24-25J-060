@@ -24,7 +24,15 @@ Our system collects data on user sleep habits, emotional states, and app usage p
 - Accurate predictions based on historical data.
 - Engaging sleep trend visualizations.
 - General sleep improvement recommendations.
-<img width="534" alt="image" src="https://github.com/user-attachments/assets/354563c5-98df-4c7d-b87b-bdaa3d054780">
+- Suggests the best bedtime based on sleep patterns.
+- Tracks app usage during sleep hours.
+- Sends reminders to limit screen time before bed.
+- Shows easy-to-understand sleep trends.
+- Real-time emotion and stress analysis 
+- Emotions can be stored and saved in a calendar
+- User-friendly cross-platform application.
+- Text-based emotion analysis
+- Personalized suggestions based on user’s emotional and stress state.
 
 
 ---
