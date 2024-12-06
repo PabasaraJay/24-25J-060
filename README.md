@@ -10,17 +10,22 @@ Our system collects data on user sleep habits, emotional states, and app usage p
 
 ---
 ## **Contributors**  
-- IT21058950 - J A P M Jayamanne - Component: Sleep Pattern Predictions and Analytics  
-- IT21060830 - R A N M Rajapaksha - Component: Emotion Tracking and Insights  
-- IT21023682 - P A D L Anjalee - Component: Data Integration and System Deployment  
-- IT21367458 - H N Siyambalapitiya - Component: Data Integration and System Deployment  
+- IT21058950 - J A P M Jayamanne - Sleep Pattern Predictions and Analytics  
+- IT21060830 - R A N M Rajapaksha - Emotion Tracking and Insights  
+- IT21023682 - P A D L Anjalee - Provide Personalized Sleep Interventions   
+- IT21367458 - H N Siyambalapitiya - Data Integration and System Deployment  
 
 ---
 ## **Features**  
 - Sleep pattern predictions using advanced machine learning models.  
 - Interactive visualizations to track and analyze sleep quality.  
 - Personalized recommendations for improved sleep and reduced stress.  
-- Integration of emotion tracking to provide a holistic understanding of user behavior.  
+- Integration of emotion tracking to provide a holistic understanding of user behavior.
+- Accurate predictions based on historical data.
+- Engaging sleep trend visualizations.
+- General sleep improvement recommendations.
+<img width="534" alt="image" src="https://github.com/user-attachments/assets/354563c5-98df-4c7d-b87b-bdaa3d054780">
+
 
 ---
 
