@@ -1,6 +1,9 @@
 # 24-25J-060
 ### **Goodnight: Enhancing Sleep Quality**  
-#### **GitHub Link to this repository:** *https://github.com/PabasaraJay/24-25J-060.git*
+
+GitHub Link to this repository:
+
+     https://github.com/PabasaraJay/24-25J-060.git
 ---
 
 ## **Overview**  
