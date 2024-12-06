@@ -69,7 +69,9 @@ To run this project, ensure the following dependencies are installed:
 ---
 
 ## **User Intefaces**  
+![image](https://github.com/user-attachments/assets/0475fe42-3fa8-41b0-b00e-956fc3f1bfb9)
 
+![image](https://github.com/user-attachments/assets/765d9253-9a4a-45ca-989f-8b4ce1eb38c1)
 
 
 
