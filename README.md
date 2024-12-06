@@ -10,10 +10,10 @@ Our system collects data on user sleep habits, emotional states, and app usage p
 
 ---
 ## **Contributors**  
-- IT21058950 - J A P M Jayamanne - Sleep Pattern Predictions and Analytics  
-- IT21060830 - R A N M Rajapaksha - Assess Emotional State and Stress  
-- IT21023682 - P A D L Anjalee - Provide Personalized Sleep Interventions   
-- IT21367458 - H N Siyambalapitiya - Determine Optimal Bedtime and Monitor Real-Time App Usage
+- **IT21058950 - J A P M Jayamanne - Sleep Pattern Predictions and Analytics**  
+- **IT21060830 - R A N M Rajapaksha - Assess Emotional State and Stress**  
+- **IT21023682 - P A D L Anjalee - Provide Personalized Sleep Interventions**   
+- **IT21367458 - H N Siyambalapitiya - Determine Optimal Bedtime and Monitor Real-Time App Usage**
 
 ---
 ## **Features**  
@@ -28,7 +28,7 @@ Our system collects data on user sleep habits, emotional states, and app usage p
 - Real-time emotion and stress analysis 
 - Emotions can be stored and saved in a calendar
 - User-friendly cross-platform application.
-- Text-based emotion analysis
+- Text-based emotion and stress analysis
 - Personalized suggestions based on user’s emotional and stress state.
 ---
 
