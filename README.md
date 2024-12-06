@@ -35,7 +35,7 @@ Our system collects data on user sleep habits, emotional states, and app usage p
 ## **System Architecture**  
 Below is a high-level overview of the **Goodnight** system architecture:  
 
-![image](https://github.com/user-attachments/assets/e89f3cdb-b82a-4c00-9d11-bb0f6d972a95)
+![image](https://github.com/user-attachments/assets/2a7b2770-f07a-4d69-8b0b-8483b2c2517f)
 
 ---
 
