@@ -77,3 +77,4 @@ To run this project, ensure the following dependencies are installed:
 
 ![image](https://github.com/user-attachments/assets/c9ee07e9-b924-4336-aebd-6c8d275cd500)
 
+![image](https://github.com/user-attachments/assets/5f0fd88a-e1a4-401e-bb52-a9bdb4b881b2)
