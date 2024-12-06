@@ -11,30 +11,25 @@ Our system collects data on user sleep habits, emotional states, and app usage p
 ---
 ## **Contributors**  
 - IT21058950 - J A P M Jayamanne - Sleep Pattern Predictions and Analytics  
-- IT21060830 - R A N M Rajapaksha - Emotion Tracking and Insights  
+- IT21060830 - R A N M Rajapaksha - Assess Emotional State and Stress  
 - IT21023682 - P A D L Anjalee - Provide Personalized Sleep Interventions   
-- IT21367458 - H N Siyambalapitiya - Data Integration and System Deployment  
+- IT21367458 - H N Siyambalapitiya - Determine Optimal Bedtime and Monitor Real-Time App Usage
 
 ---
 ## **Features**  
-- Sleep pattern predictions using advanced machine learning models.  
+- Sleep pattern predictions.  
 - Interactive visualizations to track and analyze sleep quality.  
 - Personalized recommendations for improved sleep and reduced stress.  
 - Integration of emotion tracking to provide a holistic understanding of user behavior.
-- Accurate predictions based on historical data.
-- Engaging sleep trend visualizations.
 - General sleep improvement recommendations.
-- Suggests the best bedtime based on sleep patterns.
+- Suggests the best bedtime for the user.
 - Tracks app usage during sleep hours.
 - Sends reminders to limit screen time before bed.
-- Shows easy-to-understand sleep trends.
 - Real-time emotion and stress analysis 
 - Emotions can be stored and saved in a calendar
 - User-friendly cross-platform application.
 - Text-based emotion analysis
 - Personalized suggestions based on user’s emotional and stress state.
-
-
 ---
 
 ## **System Architecture**  
