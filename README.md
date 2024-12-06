@@ -35,7 +35,7 @@ Our system collects data on user sleep habits, emotional states, and app usage p
 ## **System Architecture**  
 Below is a high-level overview of the **Goodnight** system architecture:  
 
-*(Insert architectural diagram here)*  
+![image](https://github.com/user-attachments/assets/e89f3cdb-b82a-4c00-9d11-bb0f6d972a95)
 
 ---
 
@@ -48,7 +48,8 @@ To run this project, ensure the following dependencies are installed:
   - Python 3.8+  
   - Flask or FastAPI for API development  
   - NumPy, Pandas, Scikit-learn for data processing and machine learning  
-  - TensorFlow or PyTorch for deep learning models  
+  - TensorFlow or PyTorch for deep learning models
+  - Keras
 
 - **Frontend:**  
   - ReactNative for user interfaces  
@@ -60,6 +61,10 @@ To run this project, ensure the following dependencies are installed:
 - **Other Tools:**  
   - Git for version control  
   - Jupyter Notebook for model prototyping  
-  - Docker for containerization  
+  - Firebase Cloud Messaging (FCM)
+  - OpenCV
+  - MobileNetV2
+  - Rasa
+
 
 
